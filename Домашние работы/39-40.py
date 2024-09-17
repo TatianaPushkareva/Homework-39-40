@@ -7,7 +7,7 @@ def exchange(rubles, rate):
     dollars = rubles/rate
     return dollars
 
-print(exchange(100, 110))
+print(exchange(1000, 110))
 
 # Напишите функцию для проверки пользователя на
 # совершеннолетие. Функция принимает в себя
